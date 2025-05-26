@@ -11,15 +11,15 @@ https://f542-197-248-176-21.ngrok-free.app
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use bolt.new**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e0b8c1cd-7514-4ad2-a18d-ac260ef379ec) and start prompting.
+Simply visit the [bolt.new Project](https://bolt.new.dev/projects/e0b8c1cd-7514-4ad2-a18d-ac260ef379ec) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via bolt.new will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in bolt.new.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -64,7 +64,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/e0b8c1cd-7514-4ad2-a18d-ac260ef379ec) and click on Share -> Publish.
+Simply open [bolt.new](https://.dev/projects/e0b8c1cd-7514-4ad2-a18d-ac260ef379ec) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
